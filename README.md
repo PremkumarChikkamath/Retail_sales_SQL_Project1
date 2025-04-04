@@ -24,7 +24,7 @@ Project Structure
 -- Create Table
 DROP TABLE retail_sales;
 
-CREATE TABLE retail_sales
+''' CREATE TABLE retail_sales
 	(
 	 transactions_id INT PRIMARY KEY, 	
 	 sale_date DATE ,
